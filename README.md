@@ -11,10 +11,9 @@ Guide](https://www.canada.ca/en/health-canada/services/canada-food-guides.html) 
 
 #Friday
 
-| ------- | -------- | ----- |-----|-----|-----|-----|
-| 7:30 AM | 10:30 AM | 12 PM | 4PM | 7PM | 9 PM | 11PM |
-| Quacker instant oatmeal and milk | Banana | Lunch (office provided) |
-Yogurt | Apple | 2 rotis and vegetables | Cucumbers |
+| 7:30 AM | 09:00 AM | 10:30 AM | 12 PM | 4PM | 6PM | 9 PM | 11PM |
+|-------|--------|-----|-----|-----|-----|-----|---|
+| Instant oatmeal and milk | Coffee | Banana | Lunch (office provided) | Yogurt | 1 Cucumber, 2 Biscuits  | 2 rotis and vegetables | Apple and Milk |
 
 
 
