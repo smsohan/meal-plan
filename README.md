@@ -9,7 +9,7 @@ Food
 Guide](https://www.canada.ca/en/health-canada/services/canada-food-guides.html) for adult males.
 
 
-#Friday
+# Friday
 
 | 7:30 AM | 09:00 AM | 10:30 AM | 12 PM | 4PM | 6PM | 9 PM | 11PM |
 |-------|--------|-----|-----|-----|-----|-----|---|
